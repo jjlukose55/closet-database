@@ -1,7 +1,12 @@
 # Closet Database
 
-## 🚧 Status: In Development
-This project is currently under active development. Expect frequent changes and incomplete features.
+![Status](https://img.shields.io/badge/status-in_development-yellow)
+
+> This project is currently under active development. Expect frequent changes and incomplete features.
+
+![AI Assisted](https://img.shields.io/badge/flag-AI%20Assisted-8A2BE2)
+
+> This project was partially developed with the assistance of AI tools.  
 
 ---
 
