@@ -36,7 +36,9 @@ This mobile application was designed for two primary purposes, to help users kee
 ## 🛠️ Tech Stack
 
 Languages: JavaScript
+
 Frameworks/Libraries: Expo, React Native, TailwindCSS
+
 Tools/Platforms: MySQL
 
 ---
@@ -61,8 +63,9 @@ Figma Design:
 ## 💬 Contact
 
 Author: Justin Lukose
+
 🌐 jjluk.net
+
 ✉️ [jjlukose55@gmail.com]
-🧠 “Building efficient, connected, and secure systems.”
 
 ---
