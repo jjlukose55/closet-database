@@ -13,23 +13,23 @@ This mobile application was designed for two primary purposes, to help users kee
 
 ## 🧩 Planned Features
 
-📸 Outfit sharing feed
+- 📸 Outfit sharing feed
 
-🧥 Closet organization by tags, color, and season
+- 🧥 Closet organization by tags, color, and season
 
-🔍 Search and filter functionality
+- 🔍 Search and filter functionality
 
-🛍️ Recommendations for new outfits based on existing items and liked items
+- 🛍️ Recommendations for new outfits based on existing items and liked items
 
 ---
 
 ## 🚀 Current Progress
 
-[x] Design Front End in Figma
+- [x] Design Front End in Figma
 
-[ ] Develop Front End using Expo
+- [ ] Develop Front End using Expo
 
-[ ] Develop Backend
+- [ ] Develop Backend
 
 ---
 
