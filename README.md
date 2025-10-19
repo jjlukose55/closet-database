@@ -1,50 +1,55 @@
-# Welcome to your Expo app 👋
+# Closet Database
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 🚧 Status: In Development
+This project is currently under active development. Expect frequent changes and incomplete features.
+---
 
-## Get started
+## 📖 Overview
 
-1. Install dependencies
+This mobile application was designed for two primary purposes, to help users keep track of their clothes and accessories and to allow users to share their outfits without stepping outside.
+---
 
-   ```bash
-   npm install
-   ```
+## 🧩 Planned Features
 
-2. Start the app
+📸 Outfit sharing feed
+🧥 Closet organization by tags, color, and season
+🔍 Search and filter functionality
+🛍️ Recommendations for new outfits based on existing items and liked items
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🚀 Current Progress
 
-In the output, you'll find options to open the app in a
+[x] Design Front End in Figma
+[ ] Develop Front End using Expo
+[ ] Develop Backend
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🛠️ Tech Stack
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Languages: JavaScript
+Frameworks/Libraries: Expo, React Native, TailwindCSS
+Tools/Platforms: MySQL
+---
 
-## Get a fresh project
+## ⚙️ Setup
 
-When you're ready, run:
+Coming soon! The app will be built with Expo.
+---
 
-```bash
-npm run reset-project
-```
+## 📸 Screenshots / Demo
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Figma Design: 
+![Figma Design 1](./assets/demo/figma_1.png)
+![Figma Design 2](./assets/demo/figma_2.png)
+![Figma Design 3](./assets/demo/figma_3.png)
+![Figma Design 4](./assets/demo/figma_4.png)
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 💬 Contact
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Author: Justin Lukose
+🌐 jjluk.net
+✉️ [jjlukose55@gmail.com]
+🧠 “Building efficient, connected, and secure systems.”
+---
