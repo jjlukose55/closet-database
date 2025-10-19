@@ -4,7 +4,7 @@
 
 > This project is currently under active development. Expect frequent changes and incomplete features.
 
-![AI Assisted](https://img.shields.io/badge/flag-AI%20Assisted-8A2BE2)
+![AI Assisted](https://img.shields.io/badge/flag-AI_Assisted-8A2BE2)
 
 > This project was partially developed with the assistance of AI tools.  
 
